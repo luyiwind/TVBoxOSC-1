@@ -1,4 +1,4 @@
-name: Test
+name: Taka
 
 on:
   workflow_dispatch:
