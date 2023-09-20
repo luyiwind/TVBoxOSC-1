@@ -26,7 +26,7 @@ jobs:
           - userName: yangqiang4125
             repoName: TVBoxOS
             branchName: main
-          - userName: takagen99
+          - userName: watson1982
             repoName: Box
             branchName: main
     steps:
